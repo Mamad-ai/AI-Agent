@@ -1,0 +1,9 @@
+{
+  "profile": "brytande_svenska",
+  "formality": "neutral",
+  "typical_sentence_length": "short",
+  "address_style": "clear_respectful",
+  "colloquiality": "low_to_moderate",
+  "grammatical_features": ["simple_constructions", "preserve_all_required_information"],
+  "avoid_expressions": ["caricature", "stereotypes", "mocking_errors"]
+}

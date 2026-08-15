@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+logs/*
+!logs/.gitkeep
+output/
+
+# Local foundation review/work files
+foundation_step*_review.txt
+foundation_step*_final_review.txt
+foundation_step*.zip
+foundation_step*.patch

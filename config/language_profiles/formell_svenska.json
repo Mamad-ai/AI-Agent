@@ -1,0 +1,9 @@
+{
+  "profile": "formell_svenska",
+  "formality": "formal",
+  "typical_sentence_length": "medium",
+  "address_style": "polite_professional",
+  "colloquiality": "low",
+  "grammatical_features": ["complete_sentences", "precise_wording"],
+  "avoid_expressions": ["slang", "overly_casual_address"]
+}

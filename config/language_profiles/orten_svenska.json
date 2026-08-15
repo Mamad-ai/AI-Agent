@@ -1,0 +1,9 @@
+{
+  "profile": "orten_svenska",
+  "formality": "informal",
+  "typical_sentence_length": "short_to_medium",
+  "address_style": "direct_respectful",
+  "colloquiality": "high_but_clear",
+  "grammatical_features": ["contemporary_spoken_swedish", "preserve_all_required_information"],
+  "avoid_expressions": ["caricature", "stereotypes", "forced_slang"]
+}

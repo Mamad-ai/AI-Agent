@@ -1,0 +1,9 @@
+{
+  "profile": "vardaglig_svenska",
+  "formality": "informal",
+  "typical_sentence_length": "short_to_medium",
+  "address_style": "friendly_direct",
+  "colloquiality": "moderate",
+  "grammatical_features": ["natural_spoken_swedish", "clear_complete_information"],
+  "avoid_expressions": ["stereotypes", "exaggerated_slang"]
+}

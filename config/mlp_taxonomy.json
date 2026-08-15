@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "relations": {
+    "Booking": ["boka", "omboka", "avboka"],
+    "FAQ": [],
+    "Tjänster": ["lägga till", "ta bort", "byta ut"],
+    "SmallTalk": [],
+    "Auth": ["skapa", "ändra"]
+  }
+}
